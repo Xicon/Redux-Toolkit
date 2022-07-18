@@ -3,12 +3,12 @@
 
 ## Use
 ```sehll
-git clone 
+git clone https://github.com/Xicon/Redux-Toolkit.git
 ```
 
 ## Install
 ```sehll
-pnpm i
+cd Redux-Toolkit && pnpm i
 ```
 
 ## Run
