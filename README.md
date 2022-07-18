@@ -8,7 +8,7 @@ git clone https://github.com/Xicon/Redux-Toolkit.git
 
 ## Install
 ```sehll
-cd Redux-Toolkit && pnpm i
+pnpm i
 ```
 
 ## Run
